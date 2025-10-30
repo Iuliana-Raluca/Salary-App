@@ -1,5 +1,5 @@
 # Imagine de bază Python
-FROM python:3.12-slim
+FROM python:3.12
 
 # Setare folder de lucru în container
 WORKDIR /app
