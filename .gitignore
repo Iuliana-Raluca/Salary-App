@@ -3,5 +3,6 @@ __pycache__/
 .venv/
 .env
 storage/out/
-storage/archive/
+storage/archives/
 .DS_Store
+logs/
